@@ -2,6 +2,8 @@
 
 Aplicação de conversão de moeda com flutter
 
+Curso do udemy https://www.udemy.com/share/10102QAkYdeF5XRH4=/
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
